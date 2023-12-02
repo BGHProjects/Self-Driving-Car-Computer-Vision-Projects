@@ -9,8 +9,9 @@
 <a href="https://www.tensorflow.org/"><img src="./readme-content/Tensorflow.png" width="75" height="75"></a>
 <a href="https://opencv.org/"><img src="./readme-content/OpenCV.png" width="75" height="75"></a>
 <a href="https://keras.io/"><img src="./readme-content/Keras.png" width="75" height="75"></a>
-</div>
 <a href="https://pytorch.org/"><img src="./readme-content/Pytorch.png" width="70" height="75"></a>
+</div>
+
 </br>
 
 ## Overview
