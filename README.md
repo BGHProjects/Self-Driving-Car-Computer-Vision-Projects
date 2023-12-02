@@ -2,11 +2,11 @@
 
 </br>
 <div align="center">
-<a href="https://www.python.org/"><img src="./readme_content/Python.png" width="75" height="75"></a>
-<a href="https://jupyter.org/"><img src="./readme_files/Jupyter.png" width="70" height="75"></a>
-<a href="https://numpy.org/"><img src="./readme_content/Numpy.png" width="75" height="75"></a>
-<a href="https://www.tensorflow.org/"><img src="./readme_content/Tensorflow.png" width="75" height="75"></a>
-<a href="https://opencv.org/"><img src="./readme_content/OpenCV.png" width="75" height="75"></a>
+<a href="https://www.python.org/"><img src="./readme-content/Python.png" width="75" height="75"></a>
+<a href="https://jupyter.org/"><img src="./readme-content/Jupyter.png" width="70" height="75"></a>
+<a href="https://numpy.org/"><img src="./readme-content/Numpy.png" width="75" height="75"></a>
+<a href="https://www.tensorflow.org/"><img src="./readme-content/Tensorflow.png" width="75" height="75"></a>
+<a href="https://opencv.org/"><img src="./readme-content/OpenCV.png" width="75" height="75"></a>
 </div>
 </br>
 
@@ -25,4 +25,10 @@ This project involves using [semantic segmentation](https://paperswithcode.com/t
 
 ## Object Tracking | Deep SORT
 
-## Homogenous Transformations
+## Homogenous Transformations | KITTI 3D Data Visualisation
+
+## Multi Task Learning | Multi Task Attention Network (MTAN)
+
+## 3D Object Detection | SFA 3D
+
+## Camera to Bird's Eye View | UNetXST
