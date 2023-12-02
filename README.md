@@ -70,6 +70,17 @@ This project involves visualising data from the KITTI dataset, specifically traf
 
 ## Multi Task Learning | Multi Task Attention Network (MTAN)
 
+This project involves visualising the depths of the relevant features of a image provided by the CityScapes dataset. This is facilitated by using a [Multi Task Attention Network](https://arxiv.org/abs/1803.10704) which is a neural network architectures designed for multitask learning scenarios. They utilize attention mechanisms to enable the model to selectively focus on different tasks during training. By incorporating task-specific attention modules, MTAN allows the network to learn shared representations across multiple tasks, enhancing overall performance by dynamically allocating attention based on the relevance of features to each task. In this scenario, object recognition, classification, and segmentation was required in order to visual the depth.
+
+### Visual Output Examples
+
+<div align="center">
+<img src="./readme-content/5/Example1.PNG">
+<img src="./readme-content/5/Example2.PNG">
+<img src="./readme-content/5/Example3.PNG">
+<img src="./readme-content/5/Example4.PNG">
+</div>
+
 ## 3D Object Detection | SFA 3D
 
 ## Camera to Bird's Eye View | UNetXST
