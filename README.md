@@ -9,7 +9,7 @@
 <a href="https://www.tensorflow.org/"><img src="./readme-content/Tensorflow.png" width="75" height="75"></a>
 <a href="https://opencv.org/"><img src="./readme-content/OpenCV.png" width="75" height="75"></a>
 <a href="https://keras.io/"><img src="./readme-content/Keras.png" width="75" height="75"></a>
-<a href="https://pytorch.org/"><img src="./readme-content/Pytorch.png" width="70" height="75"></a>
+<a href="https://pytorch.org/"><img src="./readme-content/Pytorch.png" width="65" height="75"></a>
 </div>
 
 </br>
@@ -85,5 +85,13 @@ This project involves visualising the depths of the relevant features of a image
 </div>
 
 ## 3D Object Detection | SFA 3D
+
+This project involves detecting cars, pedestrians, and bicyclists that are within close proximity of a self-driving car using LIDAR data, and visualising it from a bird's eye view perspective. This is facilitated using [SFA 3D](https://github.com/maudzung/SFA3D), which is built on top of [Feature Pyramid Network](https://arxiv.org/abs/1612.03144), which is a neural network architecture designed for computer vision tasks, particularly object detection, by creating a pyramid of feature maps with different resolutions to enable robust handling of objects at various scales.
+
+### Visual Output Examples
+
+<div align="center">
+<img src="./readme-content/6/Example1.PNG">
+</div>
 
 ## Camera to Bird's Eye View | UNetXST
