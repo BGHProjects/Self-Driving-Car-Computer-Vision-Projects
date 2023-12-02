@@ -5,10 +5,12 @@
 <a href="https://www.python.org/"><img src="./readme-content/Python.png" width="75" height="75"></a>
 <a href="https://jupyter.org/"><img src="./readme-content/Jupyter.png" width="70" height="75"></a>
 <a href="https://numpy.org/"><img src="./readme-content/Numpy.png" width="75" height="75"></a>
+<a href="https://matplotlib.org/"><img src="./readme-content/Matplotlib.png" width="75" height="75"></a>
 <a href="https://www.tensorflow.org/"><img src="./readme-content/Tensorflow.png" width="75" height="75"></a>
 <a href="https://opencv.org/"><img src="./readme-content/OpenCV.png" width="75" height="75"></a>
 <a href="https://keras.io/"><img src="./readme-content/Keras.png" width="75" height="75"></a>
 </div>
+<a href="https://pytorch.org/"><img src="./readme-content/Pytorch.png" width="70" height="75"></a>
 </br>
 
 ## Overview
