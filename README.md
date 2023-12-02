@@ -56,6 +56,18 @@ This project involves using object tracking to identify distinct cars for the du
 
 ## Homogenous Transformations | KITTI 3D Data Visualisation
 
+This project involves visualising data from the KITTI dataset, specifically traffic videos with cars. This is facilitated by using [Homogenous Transformations](https://mecharithm.com/learning/lesson/homogenous-transformation-matrices-configurations-in-robotics-12) based in [LIDAR](https://geoslam.com/what-is-lidar/) and camera data. Homogeneous transformations are employed to align the coordinate frames of LiDAR and camera sensors through calibration parameters such as translation and rotation matrices. Once aligned, these transformations facilitate the projection of 3D LiDAR points onto the 2D image plane, enabling the fusion of point cloud and image data. The resulting unified 3D representation, obtained through homogeneous transformation matrices, allows for comprehensive visualization and analysis in a common world coordinate system, enhancing applications like object detection and scene understanding.
+
+### Visual Output Examples
+
+<div align="center">
+<img src="./readme-content/4/Example1.PNG">
+<img src="./readme-content/4/Example2.PNG">
+<img src="./readme-content/4/Example3.PNG">
+<img src="./readme-content/4/Example4.PNG">
+<img src="./readme-content/4/Example5.PNG">
+</div>
+
 ## Multi Task Learning | Multi Task Attention Network (MTAN)
 
 ## 3D Object Detection | SFA 3D
