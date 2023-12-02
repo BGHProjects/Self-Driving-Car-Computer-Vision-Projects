@@ -25,9 +25,9 @@ This project involves using [semantic segmentation](https://paperswithcode.com/t
 ### Visual Output Examples
 
 <div align="center">
-<img src="./readme-content/1/Example1.PNG.png">
-<img src="./readme-content/1/Example2.PNG.png">
-<img src="./readme-content/1/Example3.PNG.png">
+<img src="./readme-content/1/Example1.PNG">
+<img src="./readme-content/1/Example2.PNG">
+<img src="./readme-content/1/Example3.PNG">
 </div>
 
 ## 2D Object Detection | YOLO
