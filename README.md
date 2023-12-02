@@ -95,3 +95,14 @@ This project involves detecting cars, pedestrians, and bicyclists that are withi
 </div>
 
 ## Camera to Bird's Eye View | UNetXST
+
+This project involves converting camera footage into a bird's eye view of a given environment, in order to assist the perception of a self-driving car. This is facilitated through the use of [UNetXST](https://arxiv.org/pdf/2005.04078.pdf), which is an extension of the [UNet model](https://paperswithcode.com/method/u-net#:~:text=U%2DNet%20is%20an%20architecture,architecture%20of%20a%20convolutional%20network.), which is a convolutional neural network architecture widely used for image segmentation tasks. It consists of a U-shaped structure with a contracting path for capturing context and an expansive path for precise localization. The model achieves the transformation from camera inputs to bird's eye view through the use of [homography](https://www.sciencedirect.com/topics/engineering/homography#:~:text=A%20homography%20is%20a%20projective,or%20the%20observed%20object%20moves), [spatial transformation](https://www.sciencedirect.com/topics/engineering/spatial-transformation#:~:text=Spatial%20transformations%20alter%20the%20image,shapes%2C%20and%20motion%20in%20tissue.), and [bilinear interpolation](https://www.sciencedirect.com/topics/computer-science/bilinear-transformation).
+
+### Visual Output Examples
+
+<div align="center">
+<img src="./readme-content/7/Example1.PNG">
+<img src="./readme-content/7/Example2.PNG">
+<img src="./readme-content/7/Example3.PNG">
+<img src="./readme-content/7/Example4.PNG">
+</div>
