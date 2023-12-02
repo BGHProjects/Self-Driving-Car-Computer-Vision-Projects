@@ -34,6 +34,15 @@ This project involves using [semantic segmentation](https://paperswithcode.com/t
 
 This project involves [2D object detection](https://docs.viam.com/ml/vision/detection/) to identify cars and pedestrians that are present in video footage provided to a self-driving car. This is facilitated by using the [YOLOv3 model](https://viso.ai/deep-learning/yolov3-overview/), which stands for You Only Look Once, and is a popular object detection algorithm that efficiently detects and classifies objects within an image in real-time. It divides the input image into a grid and predicts bounding boxes and class probabilities for multiple objects simultaneously, streamlining the detection process. YOLOv3 incorporates a feature pyramid network and employs three different scales of detection to effectively handle objects of varying sizes, enhancing its performance across a wide range of scenarios. The model used in the project was based on the [Keras YOLOv3 architecture](https://github.com/experiencor/keras-yolo3), but was built using custom functions.
 
+### Visual Output Examples
+
+<div align="center">
+<img src="./readme-content/2/Example1.PNG">
+<img src="./readme-content/2/Example2.PNG">
+<img src="./readme-content/2/Example3.PNG">
+<img src="./readme-content/2/Example4.PNG">
+</div>
+
 ## Object Tracking | Deep SORT
 
 ## Homogenous Transformations | KITTI 3D Data Visualisation
