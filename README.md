@@ -45,6 +45,15 @@ This project involves [2D object detection](https://docs.viam.com/ml/vision/dete
 
 ## Object Tracking | Deep SORT
 
+This project involves using object tracking to identify distinct cars for the duration of a video input. This is facilitated by using [Deep SORT](https://arxiv.org/abs/1703.07402), or Deep Learning for Object Tracking, which is an extension of the SORT (Simple Online and Realtime Tracking) algorithm by integrating a deep appearance descriptor, often derived from a convolutional neural network (CNN). This combination enhances object tracking accuracy by incorporating deep learning features for more robust object identity representation. DeepSORT leverages a Kalman filter for state prediction and association, providing a probabilistic framework to estimate the state of the tracked objects over time. Additionally, it employs Intersection over Union (IoU) metrics to refine bounding box associations, ensuring more accurate localization and identity assignment during tracking in complex scenarios with occlusions and crowded environments.
+
+### Visual Output Examples
+
+<div align="center">
+<img src="./readme-content/3/Example1.PNG">
+<img src="./readme-content/3/Example2.PNG">
+</div>
+
 ## Homogenous Transformations | KITTI 3D Data Visualisation
 
 ## Multi Task Learning | Multi Task Attention Network (MTAN)
